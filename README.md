@@ -6,7 +6,23 @@ Bus Conect é um sistema inteligente de gestão de transporte universitário, de
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Projeto
+### Como rodar o Projeto
+```bash
+# Clone o repositório
+git clone https://github.com/Guilherme0Medeiros/BusConect
+cd busconect
+
+# Instale as dependências
+npm install
+
+# Rode o projeto (emulador ou dispositivo físico)
+npx react-native run-android   # Para Android
+npx react-native run-ios       # Para iOS (necessário MacOS)
+
+# Caso esteja usando Expo:
+npx expo start
+```
+### Imagens
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf8c2e8e-7bd2-4d0d-958e-15344b2fb45b" height="400" />
   <img src="https://github.com/user-attachments/assets/2ae43221-aa22-4c5f-a0c8-d8abe6645e69" height="400" />
