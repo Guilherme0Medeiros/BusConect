@@ -1,5 +1,5 @@
 ### BusConect
-Bus Conect é um sistema inteligente de gestão de transporte Universitário, desenvolvido para conectar alunos, motoristas e a equipe administrativa de forma simples, rápida e eficiente. A plataforma permite o cadastro automatizado de estudantes, confirmação de viagens, organização de listas de embarque e o envio de avisos em tempo real.
+Bus Conect é um sistema inteligente de gestão de transporte universitário, desenvolvido para conectar alunos, motoristas e a equipe administrativa de forma simples, rápida e eficiente. A plataforma, criada com React Native, permite o cadastro automatizado de estudantes, confirmação de viagens, organização de listas de embarque e o envio de avisos em tempo real.
 
 ### Tecnologias
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
