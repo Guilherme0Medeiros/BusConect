@@ -1,0 +1,12 @@
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\bin\Debug\net10.0\BusConect.Domain.deps.json
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\bin\Debug\net10.0\BusConect.Domain.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\bin\Debug\net10.0\BusConect.Domain.pdb
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.AssemblyInfo.cs
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.sourcelink.json
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\refint\BusConect.Domain.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\BusConect.Domain.pdb
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Domain\obj\Debug\net10.0\ref\BusConect.Domain.dll

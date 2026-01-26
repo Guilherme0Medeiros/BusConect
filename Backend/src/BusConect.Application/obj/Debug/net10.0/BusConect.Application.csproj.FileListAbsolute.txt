@@ -1,0 +1,16 @@
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\bin\Debug\net10.0\BusConect.Application.deps.json
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\bin\Debug\net10.0\BusConect.Application.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\bin\Debug\net10.0\BusConect.Application.pdb
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\bin\Debug\net10.0\BusConect.Domain.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\bin\Debug\net10.0\BusConect.Domain.pdb
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.AssemblyInfo.cs
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.sourcelink.json
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConec.01F0CA61.Up2Date
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\refint\BusConect.Application.dll
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\BusConect.Application.pdb
+C:\Users\Familia\Desktop\Guilherme\BusConect\Backend\src\BusConect.Application\obj\Debug\net10.0\ref\BusConect.Application.dll

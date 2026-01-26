@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BusConect.Api/BusConect.Api.csproj" />
+    <Project Path="src/BusConect.Application/BusConect.Application.csproj" />
+    <Project Path="src/BusConect.Domain/BusConect.Domain.csproj" />
+    <Project Path="src/BusConect.Infrastructure/BusConect.Infrastructure.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BusConect.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BusConect.Application": "1.0.0",
+          "BusConect.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BusConect.Infrastructure.dll": {}
+        }
+      },
+      "BusConect.Application/1.0.0": {
+        "dependencies": {
+          "BusConect.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BusConect.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BusConect.Domain/1.0.0": {
+        "runtime": {
+          "BusConect.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusConect.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusConect.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusConect.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
