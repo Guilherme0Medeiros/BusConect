@@ -1,10 +1,9 @@
 ### BusConect
-Bus Conect é um sistema inteligente de gestão de transporte universitário, desenvolvido para conectar alunos, motoristas e a equipe administrativa de forma simples, rápida e eficiente. A plataforma, criada com React Native, permite o cadastro automatizado de estudantes, confirmação de viagens, organização de listas de embarque e o envio de avisos em tempo real.
+BusConect é um sistema de gestão de transporte universitário desenvolvido para facilitar a comunicação e a organização entre alunos, motoristas e a equipe administrativa. A aplicação permite o cadastro de estudantes, confirmação de viagens, organização de listas de embarque e envio de avisos em tempo real. O projeto foi desenvolvido com foco em aplicações mobile, utilizando React Native e JavaScript/TypeScript, com suporte inicial de backend em C# para estruturação e testes.
 
 ### Tecnologias
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Como rodar o Projeto
